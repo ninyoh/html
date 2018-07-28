@@ -33,7 +33,7 @@
 
     <div id="page-wrap">
     
-        <img src="nin.jpg" alt="Photo of ninyoh" id="pic" />
+        <img src="images\nin.jpg" alt="Photo of ninyoh" id="pic" />
     
         <div id="contact-info" class="vcard">
         
