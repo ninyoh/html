@@ -36,7 +36,10 @@
         
     
         <div id="contact-info" class="vcard">
+          <div { width: 100%;
+    height: 400px;
         <img src="images\nin.jpg" alt="Photo of ninyoh" id="pic" />
+             }
             <!-- Microformats! -->
           <h1 class="fn">EPIFELWARD NINO AMORA</h1>
             <p> Cell: <span class="tel">0935-1172106</span><br />
