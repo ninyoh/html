@@ -33,14 +33,15 @@
 
     <div id="page-wrap">
     
-        <img src="images/nin.jpg" alt="Photo of Cthulu" id="pic" />
+        <img src="images/nin.jpg" alt="Photo of ninyoh" id="pic" />
     
         <div id="contact-info" class="vcard">
        
             <!-- Microformats! -->
           <h1 class="fn">EPIFELWARD NINO AMORA</h1>
             <p> Cell: <span class="tel">0935-1172106</span><br />
-              Email: ninyohamora2017@gmail.com</p>
+              Email: ninyohamora2017@gmail.com
+             <br> Address: Cogtong, Candijay, Bohol </br></p>
         </div>
                 
         <div id="objective">
