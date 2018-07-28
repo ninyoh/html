@@ -36,18 +36,11 @@
         
     
         <div id="contact-info" class="vcard">
-         div {
-    width: 100%;
-    height: 400px;
-    background-image: url('images/nin.jpg');
-    background-repeat: no-repeat;
-    background-size: contain;
-    border: 1px solid red;
-}
+       
             <!-- Microformats! -->
           <h1 class="fn">EPIFELWARD NINO AMORA</h1>
             <p> Cell: <span class="tel">0935-1172106</span><br />
-              Email: ninyohamora2017z@gmail.com</p>
+              Email: ninyohamora2017@gmail.com</p>
         </div>
                 
         <div id="objective">
